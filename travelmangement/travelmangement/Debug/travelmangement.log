@@ -1,0 +1,5 @@
+﻿  travelmangement.cpp
+c:\users\mganganagoudar\documents\visual studio 2015\projects\travelmangement\travelmangement\travelmangement.cpp(82): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\mganganagoudar\documents\visual studio 2015\projects\travelmangement\travelmangement\travelmangement.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+travelmangement.obj : error LNK2001: unresolved external symbol "public: static int Customers::customID" (?customID@Customers@@2HA)
+c:\users\mganganagoudar\documents\visual studio 2015\Projects\travelmangement\Debug\travelmangement.exe : fatal error LNK1120: 1 unresolved externals

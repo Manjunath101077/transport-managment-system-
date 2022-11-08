@@ -1,0 +1,7 @@
+
+Customer id:122
+Name1221
+Age:1221
+ Mobile no:1221
+Address:12
+gender:12
